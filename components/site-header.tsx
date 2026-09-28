@@ -7,6 +7,7 @@ const links = [
   { href: '#sql', label: 'SQL' },
   { href: '#insights', label: 'Insights' },
   { href: '#sql-case', label: 'SQL Case' },
+  { href: '#excel', label: 'Excel' },
 ]
 
 export function SiteHeader() {

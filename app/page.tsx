@@ -1,5 +1,6 @@
 import { ContactFooter } from '@/components/contact-footer'
 import { Dashboard } from '@/components/dashboard'
+import { HarmonySection } from '@/components/harmony-section'
 import { Hero } from '@/components/hero'
 import { Insights } from '@/components/insights'
 import { LumoraSection } from '@/components/lumora-section'
@@ -20,6 +21,7 @@ export default function Page() {
         <SqlSection />
         <Insights />
         <LumoraSection />
+        <HarmonySection />
       </main>
       <ContactFooter />
     </>
